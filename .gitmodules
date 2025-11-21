@@ -1,0 +1,16 @@
+[submodule "rag-llm-knowledge-project"]
+	path = rag-llm-knowledge-project
+	url = https://github.com/silsgah/rag-llm-system.git
+	branch = main
+[submodule "realtime_training"]
+	path = realtime_training
+	url = https://github.com/silsgah/realtime_training.git
+	branch = main
+[submodule "substack-newsletters-search"]
+	path = substack-newsletters-search
+	url = https://github.com/silsgah/substack-newsletters-search.git
+	branch = main
+[submodule "spamClassifier"]
+	path = spamClassifier
+	url = https://github.com/silsgah/spamClassifier.git
+	branch = main
