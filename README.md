@@ -24,10 +24,6 @@ silsgah-main/
 ├── realtime_training/             # Real-time model training pipelines
 ├── spamClassifier/                # Production spam classification service
 ├── substack-newsletters-search/   # Semantic search for newsletter content
-├── scripts/                       # Automation and utility scripts
-├── docs/                          # Architecture diagrams and documentation
-├── infrastructure/                # Deployment configs and IaC templates
-├── .gitmodules                    # Submodule tracking
 ├── LICENSE
 └── README.md
 ```
@@ -56,7 +52,7 @@ silsgah-main/
 - Automated model versioning and deployment
 - Monitoring and drift detection
 
-**Tech Stack:** PyTorch, MLflow, Kubernetes
+**Tech Stack:** PyTorch, MLflow, Kubernetes, Docker
 
 ---
 
@@ -68,7 +64,7 @@ silsgah-main/
 - Robust preprocessing and feature extraction
 - REST API with comprehensive monitoring
 
-**Tech Stack:** PyTorch, Transformers, FastAPI, Docker
+**Tech Stack:** PyTorch, Transformers
 
 ---
 
@@ -80,7 +76,7 @@ silsgah-main/
 - Fast approximate nearest neighbor search
 - Query understanding and result ranking
 
-**Tech Stack:** Sentence Transformers, FAISS, Elasticsearch, FastAPI
+**Tech Stack:** Sentence Transformers, FAISS, Vector Db, FastAPI, Prefect
 
 ---
 
