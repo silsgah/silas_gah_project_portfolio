@@ -137,8 +137,8 @@ docker-compose up -d
 - Scalable deployment configurations
 
 ### Experiment Tracking
-- Weights & Biases integration for metrics
-- Hydra for configuration management
+- Opik integration for metrics
+- ZenML and Prefect for configuration management
 - MLflow for model versioning
 - Comprehensive evaluation frameworks
 
