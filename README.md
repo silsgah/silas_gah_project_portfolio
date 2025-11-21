@@ -201,12 +201,12 @@ Detailed documentation available in `/docs`:
 
 ---
 
-## 👤 Contact
+## 📞 Contact
 
-**Silas Gah**  
-Machine Learning Research Engineer
-
-For project inquiries, collaboration opportunities, or technical questions, please open an issue or reach out directly.
+- **Author**: Silas Kwabla Gah
+- **GitHub**: [@silsgah](https://github.com/silsgah)
+- **LinkedIn**: [Silas Gah](https://www.linkedin.com/in/silas-gah-46b126294)
+- **Email**: gahsilas@gmail.com
 
 ---
 
