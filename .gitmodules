@@ -14,3 +14,7 @@
 	path = spamClassifier
 	url = https://github.com/silsgah/spamClassifier.git
 	branch = main
+[submodule "ocr_llg_rag_responsible_AI_Governance"]
+	path = ocr_llg_rag_responsible_AI_Governance
+	url = https://github.com/silsgah/ocr_llg_rag_responsible_AI_Governance.git
+	branch = main
